@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0079-word-search) |
+| [0238-product-of-array-except-self](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0238-product-of-array-except-self) |
 | [0733-flood-fill](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0733-flood-fill) |
 ## String
 |  |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0733-flood-fill) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
