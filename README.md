@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0079-word-search) |
 | [0238-product-of-array-except-self](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0733-flood-fill) |
 ## String
 |  |
@@ -33,4 +34,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
