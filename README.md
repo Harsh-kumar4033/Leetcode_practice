@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0258-add-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0084-largest-rectangle-in-histogram) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
