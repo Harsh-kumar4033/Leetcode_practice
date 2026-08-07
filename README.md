@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
 ## Simulation
 |  |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0258-add-digits) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
