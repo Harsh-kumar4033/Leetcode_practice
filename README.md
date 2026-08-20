@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0079-word-search) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Harsh-kumar4033/Leetcode_practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
